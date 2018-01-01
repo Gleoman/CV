@@ -38,9 +38,7 @@ RSpec, Jasmine
 
 **BPP Law School Holborn** (September 2009 to June 2010)
 
-Legal Practice Course
-
-Distinction
+Legal Practice Course - **Distinction**
 
 Intellectual Property Elective
 
@@ -54,9 +52,7 @@ Participated in law school moots - (simulated court-room cases, involving argume
 
 **University of Edinburgh** (September 2002 to June 2006)
 
-MA History
-
-First Class Honours
+MA History - **First Class Honours**
 
 
 
