@@ -62,22 +62,30 @@ First Class Honours
 Experience
 
 United Kingdom Treasury (January 2017 to October 2017)
+
 Legal Adviser - Treasury Legal Advisers - Government Legal Department
+
 Advisory position with the UK Treasury's Brexit (EU Exit) team working principally on the EU Exit Withdrawal Bill and associated issues concerning the regulation of the UK financial services sector and the UK's withdrawal from the European Union.
 
 Allen & Overy LLP (May 2014 to February 2016)
+
 Associate Solicitor - Competition & Antitrust
+
 Associate position with elite UK "Magic Circle" law firm specialising in competition and antitrust matters.
 This work covered a wide range of practice areas from merger control, through behavioural investigations to commercial advice in a number of different sectors across multiple jurisdictions (UK, EU, US, China etc).
 While at Allen & Overy I was also seconded to RBS where I first gained exposure to blockchain issues in advising RBS on its potential involvement in the development of a private blockchain consortium for the financial services sector.  This proved to be the early major driver in my coding interests and subsequent discussions with contacts with common interests has given rise to the potential data compliance tech/blockchain opportunities briefly set out above.
 
 Nabarro LLP (September 2012 to April 2014)
+
 Associate Solicitor - EU & Competition
+
 Associate position with prominent UK competition practice that gave me tremendous experience early in my career, taking on major responsibilities in a small team in the delivery of advice in two major cases - the UK "pay-for-delay" Paroxetine investigation into patent litigation settlements and the UK private healthcare market investigation.
 My role on the paroxetine investigation in particular gave me valuable early experience of project management and the delivery of challenging workstreams in a high pressure environment, also involving the supervision and management of more junior members' work.
 
 Bristows (September 2010 to September 2012)
+
 Trainee Solicitor
+
 Two year training contract at UK intellectual property boutique.
 My training contract at Bristows largely concentrated on intellectual property practice areas in high technology sectors.
 Over the two years, I completed the following seats - Intellectual Property Litigation, Commercial Intellectual Property, Real Estate, a secondment to Sony Playstation Europe, Commercial Disputes, and Competition.
