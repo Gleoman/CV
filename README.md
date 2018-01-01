@@ -1,4 +1,4 @@
-Ed Goold
+**Ed Goold**
 
 I am a career switcher who is new to coding and I am excited by this fresh challenge and the myriad opportunities that lie ahead.
 
@@ -8,26 +8,15 @@ I am still educating myself about opportunities in the tech world but at this ea
 
 In general I am looking for a role that will challenge and stretch me as both a developer and a professional.  I have a proven track record of delivering challenging workstreams in high pressure environments and I will be able to bring that experience to bear in my next role.
 
-Skills
 
-This Skill
+##**Skills**
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+To be completed as my Makers Academy course progresses.
 
-Experience
-Achievements
-Evidence
-Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+##••Education••
 
-I achieved A during my work at B (job, or otherwise)
-I contributed to the growth of X while doing Y (job, or otherwise)
-I built this, made this, broke this, fixed this, etc.
-A link to some on-line evidence (blogs, videos, articles, etc.)
-Education
-
-Makers Academy (January 2018 to March 2018)
+••Makers Academy•• (January 2018 to March 2018)
 
 Curious and passionate about code. [PROVIDE EVIDENCE]
 
@@ -43,33 +32,34 @@ Ruby, Rails, JavaScript
 
 RSpec, Jasmine
 
-BPP Law School Holborn (September 2009 to June 2010)
+••BPP Law School Holborn•• (September 2009 to June 2010)
 
 Legal Practice Course
 Distinction
 Intellectual Property Elective
 
-BPP Law School Waterloo (September 2007 to June 2008
+••BPP Law School Waterloo•• (September 2007 to June 2008
 
 Graduate Diploma in Law
 Participated in law school moots - (simulated court-room cases, involving argumentation/public speaking)
 
-University of Edinburgh (September 2002 to June 2006)
+••University of Edinburgh•• (September 2002 to June 2006)
 
 MA History
 First Class Honours
 
-Experience
 
-United Kingdom Treasury (January 2017 to October 2017)
+##**Professional Experience**
 
-Legal Adviser - Treasury Legal Advisers - Government Legal Department
+••United Kingdom Treasury•• (January 2017 to October 2017)
+
+••Legal Adviser - Treasury Legal Advisers - Government Legal Department••
 
 Advisory position with the UK Treasury's Brexit (EU Exit) team working principally on the EU Exit Withdrawal Bill and associated issues concerning the regulation of the UK financial services sector and the UK's withdrawal from the European Union.
 
-Allen & Overy LLP (May 2014 to February 2016)
+••Allen & Overy LLP (May 2014 to February 2016)••
 
-Associate Solicitor - Competition & Antitrust
+••Associate Solicitor - Competition & Antitrust••
 
 Associate position with elite UK "Magic Circle" law firm specialising in competition and antitrust matters.
 
@@ -77,17 +67,17 @@ This work covered a wide range of practice areas from merger control, through be
 
 While at Allen & Overy I was also seconded to RBS where I first gained exposure to blockchain issues in advising RBS on its potential involvement in the development of a private blockchain consortium for the financial services sector.  This proved to be the early major driver in my coding interests and subsequent discussions with contacts with common interests has given rise to the potential data compliance tech/blockchain opportunities briefly set out above.
 
-Nabarro LLP (September 2012 to April 2014)
+••Nabarro LLP•• (September 2012 to April 2014)
 
-Associate Solicitor - EU & Competition
+••Associate Solicitor - EU & Competition••
 
 Associate position with prominent UK competition practice that gave me tremendous experience early in my career, taking on major responsibilities in a small team in the delivery of advice in two major cases - the UK "pay-for-delay" Paroxetine investigation into patent litigation settlements and the UK private healthcare market investigation.
 
 My role on the paroxetine investigation in particular gave me valuable early experience of project management and the delivery of challenging workstreams in a high pressure environment, also involving the supervision and management of more junior members' work.
 
-Bristows (September 2010 to September 2012)
+••Bristows•• (September 2010 to September 2012)
 
-Trainee Solicitor
+••Trainee Solicitor••
 
 Two year training contract at UK intellectual property boutique.
 
