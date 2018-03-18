@@ -82,21 +82,21 @@ Nodejs, Postgres, Datamapper
 ---
 
 
-### **BPP Law School Holborn** (September 2009 to June 2010)
+### **_BPP Law School Holborn_** (September 2009 to June 2010)
 
 Legal Practice Course - **Distinction**
 
 ---
 
 
-### **BPP Law School Waterloo** (September 2007 to June 2008
+### **_BPP Law School Waterloo_** (September 2007 to June 2008)
 
 Graduate Diploma in Law
 
 ---
 
 
-### **University of Edinburgh** (September 2002 to June 2006)
+### **_University of Edinburgh_** (September 2002 to June 2006)
 
 MA History - **First Class Honours**
 
