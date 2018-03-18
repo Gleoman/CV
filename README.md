@@ -82,7 +82,7 @@ Nodejs, Postgres, Datamapper
 ---
 
 
-### **_BPP Law School Holborn_** (September 2009 to June 2010)
+### **BPP Law School Holborn** (September 2009 to June 2010)
 
 Legal Practice Course - **Distinction**
 
