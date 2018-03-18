@@ -63,21 +63,19 @@ At this early stage in my career I have developed a general interest in the fiel
 
 ### **_Makers Academy_** (December 2017 to March 2018)
 
-Curious and passionate about code. 
+- Curious and passionate about code. 
 
-Fast, independent learner.
+- Fast, independent learner.
 
-Great collaborator
+- Great collaborator
 
-OOP, TDD/BDD
+- OOP, TDD/BDD, Agile/XP
 
-Agile/XP
+- Ruby, Rails, JavaScript, Python, Django
 
-Ruby, Rails, JavaScript, Python, Django
+- RSpec, Jasmine, Unittest, Pytest
 
-RSpec, Jasmine, Unittest, Pytest
-
-Nodejs, Postgres, Datamapper
+- Nodejs, Postgres, Datamapper
 
 ---
 
