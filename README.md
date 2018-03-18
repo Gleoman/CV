@@ -82,21 +82,21 @@ At this early stage in my career I have developed a general interest in the fiel
 
 ### **_BPP Law School Holborn_** (September 2009 to June 2010)
 
-Legal Practice Course - **Distinction**
+- Legal Practice Course - **Distinction**
 
 ---
 
 
 ### **_BPP Law School Waterloo_** (September 2007 to June 2008)
 
-Graduate Diploma in Law
+- Graduate Diploma in Law
 
 ---
 
 
 ### **_University of Edinburgh_** (September 2002 to June 2006)
 
-MA History - **First Class Honours**
+- MA History - **First Class Honours**
 
 ---
 
