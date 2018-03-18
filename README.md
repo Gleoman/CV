@@ -1,6 +1,6 @@
 # **Ed Goold**
 
-I am a career switcher from law who is excited by this fresh coding challenge and all the opportunities that lie ahead.
+I am a career switcher from law, excited by this fresh coding challenge and all the opportunities that lie ahead.
 
 I recently completed a 4 month coding bootcamp at Makers Academy in London where I learnt Ruby, Ruby-on-Rails, JavaScript, Python and Django.  I also had exposure to back-end tech in Node.js and PostgreSQL, among others.  Beyond individual tech, the course at Makers had a strong emphasis on TDD and BDD software development within a wider context of Agile and XP values, which has shaped and guided my individual learning and development as a coder.
 
