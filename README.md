@@ -2,7 +2,7 @@
 
 I am a career switcher from law who is excited by this fresh coding challenge and all the opportunities that lie ahead.
 
-I recently completed a 4 month coding bootcamp at Makers Academy in London where I learnt Ruby, Ruby-on-Rails, JavaScript, Python and Django.  I also had exposure to back-end tech in nodejs and postgres, among others.  Beyond individual tech, the course at Makers had a strong emphasis on TDD and BDD software development within a wider context of Agile and XP values, which has shaped and guided my individual learning and development as a coder.
+I recently completed a 4 month coding bootcamp at Makers Academy in London where I learnt Ruby, Ruby-on-Rails, JavaScript, Python and Django.  I also had exposure to back-end tech in Node.js and PostgreSQL, among others.  Beyond individual tech, the course at Makers had a strong emphasis on TDD and BDD software development within a wider context of Agile and XP values, which has shaped and guided my individual learning and development as a coder.
 
 I am now in a position to build on both my front-end and back-end experience and I am looking for a first coding role that will challenge and stretch me as both a developer and a professional.  
 
@@ -34,8 +34,8 @@ At this early stage in my career I have developed a general interest in the fiel
 
 ### **_Back-end Tech_**
 
-  - Nodejs
-  - Postgres
+  - Node.js
+  - PostgreSQL
   - Datamapper
 
 ### **_Values_**
